@@ -1,5 +1,5 @@
 {
-    "name": "Hadesbot",
+    "name": "𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽",
     "version": "1.0.30",
     "description": "Super Bot WhatsApp",
     "main": "index.js",
@@ -14,16 +14,16 @@
         "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
         "db": "node . --autocleartmp --db 'mongodb+srv://BrunoSobrino:Akhmad6825@cluster0.mflne.mongodb.net/TheMystic-Bot?retryWrites=true&w=majority'"
     },
-    "homepage": "hadesbot",
+    "homepage": "𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽",
     "author": {
-        "name": "hades"
+        "name": "Nishimiya"
     },
     "repository": {
         "type": "https://github.com/Jose21NC/NISHIYIMABot.git",
         "url": "https://github.com/Jose21NC/NISHIYIMABot.git"
     },
     "bugs": {
-        "url": "https://github.com/Yovanihades1212/HADES-BOT-MDV2/issues"
+        "url": "https://github.com/𝗝𝗼𝘀𝗲𝗭𝘇𝘇 Nishimiya1212/Nishimiya-BOT-MDV2/issues"
     },
     "license": "MIT",
     "dependencies": {

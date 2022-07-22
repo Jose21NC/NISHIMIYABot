@@ -5,7 +5,7 @@ let text = `
 ├❏ ๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚 gracias por 🥳solicitar la instalación 🤖 del bor gracias por tu preferencia te dejaré los requisitos para 👩‍💻instalar el bot cualquier duda puedes contactarme a mi número personal en caso de si  necesitas ayuda para instalar 🤴
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝚕 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁」
-├❏http://wa.me/5212411719888
+├❏http://wa.me/50576796164
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝚁𝙴𝙲𝙾𝙼𝙴𝙽𝙳𝙰𝙳𝙾 」
 ├❏https://www.mediafire.com/file/3lzk2l83di64tc2/%E2%98%BB%EF%B8%8F+%F0%9D%94%B8%F0%9D%95%93%F0%9D%95%A6+%F0%9D%94%B9%F0%9D%95%83%F0%9D%94%B8%E2%84%82%F0%9D%95%82+%E2%98%BB%EF%B8%8F.apk/file?dkey=ihcz5i82z0m431
@@ -24,7 +24,7 @@ let text = `
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
 ├❏git clone https://github.com/Jose21NC/NISHIYIMABot.git
-├❏cd HADES-BOT-MDV2
+├❏cd NISHIYIMABot
 ├❏npm install
 ├❏pkg install yarn
 ├❏npm update
@@ -33,12 +33,12 @@ let text = `
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝙲𝙸𝙾𝙽 」─
 ├❏Si el termux se cierra para volver activar escribe:
-├❏cd HADES-BOT-MDV2 
+├❏cd NISHIYIMABot 
 ├❏npm start 
 ├❏───ׂ─ׂ─ׂ─ׂ─」
 ├❏ Para obtener nuevamente el 
 ├❏codigo QR, escribe en el termux:
-├❏cd HADES-BOT-MDV2 
+├❏cd NISHIYIMABot
 ├❏rm -rf session.data.json
 ├❏npm start 
 ├❏───ׂ─ׂ─ׂ─ׂ─」

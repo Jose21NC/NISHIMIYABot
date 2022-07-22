@@ -1,7 +1,7 @@
 import axios from 'axios'
 let split = '|'
 let handler = async (m, { conn, args: [effect], text: txt, usedPrefix, command, name }) => {
-if (!effect) throw '┌──「𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽」─\n├❏๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡  𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨 𝐚𝐥\n├❏𝐦𝐞𝐧ú 𝐝𝐞 𝐜𝐨𝐦𝐚𝐧𝐝\n├❏[❗] ¿𝐂𝐨𝐦𝐨 𝐮𝐬𝐚𝐫 𝐞𝐬𝐭𝐞 𝐜𝐨𝐦𝐚𝐧𝐝?\n/logo (efecto)\n (texto)\nEjemplo:*\n/logo 3d-deep-sea-metal 𝐇𝐀𝐃𝐄𝐒_\n├❏[❗] Algunas veces le dira que falta otro texto, el uso seria el siguiente\n├❏#logo (efecto) (texto1|texto2)_\n├❏Ejemplo:\n├❏#logo Wolf-Logo-Galaxy ❍͜͡➣𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓_𝐌𝐃❍͜͡➣|Yovani_\n├❏<LISTA DE EFECTOS/>\n├❏───ׂ─ׂ─ׂ─ׂ──\n├❏✧͢⃟ᤢ🧨/logo ' + effects.map(v => v.title).join('\n├❏✧͢⃟ᤢ🧨#logo\n')
+if (!effect) throw '┌──「𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽」─\n├❏๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡  𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨 𝐚𝐥\n├❏𝐦𝐞𝐧ú 𝐝𝐞 𝐜𝐨𝐦𝐚𝐧𝐝\n├❏[❗] ¿𝐂𝐨𝐦𝐨 𝐮𝐬𝐚𝐫 𝐞𝐬𝐭𝐞 𝐜𝐨𝐦𝐚𝐧𝐝?\n/logo (efecto)\n (texto)\nEjemplo:*\n/logo 3d-deep-sea-metal 𝐇𝐀𝐃𝐄𝐒_\n├❏[❗] Algunas veces le dira que falta otro texto, el uso seria el siguiente\n├❏#logo (efecto) (texto1|texto2)_\n├❏Ejemplo:\n├❏#logo Wolf-Logo-Galaxy 𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽  | 𝗝𝗼𝘀𝗲𝗭𝘇𝘇 ni_\n├❏<LISTA DE EFECTOS/>\n├❏───ׂ─ׂ─ׂ─ׂ──\n├❏✧͢⃟ᤢ🧨/logo ' + effects.map(v => v.title).join('\n├❏✧͢⃟ᤢ🧨#logo\n')
 effect = effect.toLowerCase()
 if (!effects.find(v => (new RegExp(v.title, 'gi')).test(effect))) throw `*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝙻 𝙴𝙵𝙴𝙲𝚃𝙾 ${effect} 𝙽𝙾 𝙴𝚂𝚃𝙰 𝙴𝙽 𝙻𝙰 𝙻𝙸𝚂𝚃𝙰 𝙳𝙴 𝙴𝙵𝙴𝙲𝚃𝙾𝚂*`
 let text = txt.replace(new RegExp(effect, 'gi'), '').trimStart()

@@ -86,16 +86,16 @@ global.vs = '1.0.30'
 global.version = vs
 
 global.gt = '𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽'
-global.hadesbot = gt
+global.𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽 = gt
 
 global.yt = 'https://youtube.com/channel/UCO3zMzHQ3n2C0ypN2Y5aeeg9wQi-z8U'
 global.youtube = yt
 
 global.ig = 'https://www.instagram/josedev2nc'
-global.hadesig = ig
+global.Nishimiyaig = ig
 
 global.md = 'https://github.com/Jose21NC/NISHIYIMABot'
-global.hadesbot = md
+global.𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽 = md
 
 global.nn = 'https://chat.whatsapp.com/J5O2VCn3X6WIeLVNrqDgPU'
 global.nngrupo = nn

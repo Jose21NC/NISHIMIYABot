@@ -6,7 +6,7 @@ import { join } from 'path'
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text }) => {
 try {
 let vn = './media/naa.mp3'
-let pp = 'https://i.imgur.com/AYfkKZB.jpeg'
+let pp = 'https://i.imgur.com/RghtqWZ.jpg'
 let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.json')).catch(_ => ({}))) || {}
 let { exp, limit, level, role } = global.db.data.users[m.sender]
 let { min, xp, max } = xpRange(level, global.multiplier)
@@ -116,7 +116,6 @@ let str = `
 ├❏📰${usedPrefix}tiktokstalk <nombre de usuario
 └────ׂ─ׂ─ׂ─ׂ───
 ┌──「⛩️𝐀𝐍𝐈𝐌𝐄𝐒」─
-├❏🕋.hades
 ├❏🎎${usedPrefix}cristianoronaldo
 ├❏🌃${usedPrefix}messi
 ├❏💒${usedPrefix}meme
@@ -405,14 +404,10 @@ let str = `
 ├❏🥁Bot gemine
 ├❏🎧Pespes
 ├❏🎻Ora
-├❏🎺Hades bot
 ├❏🎸Tori
 ├❏🎷Oxxo
 ├❏🎹Mi bot es le mejor
 ├❏🎤Bunny
-├❏🥁cancion hades2
-├❏🎧cancion de hades
-├❏🎻Hades es un Dios
 ├❏🎺llamando a seguridad_
 ├❏🎸Atena_
 ├❏🎷Que tonta eres_

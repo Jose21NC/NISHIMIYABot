@@ -1,23 +1,21 @@
-let media = 'https://i.imgur.com/NRv6b71.jpeg'
+let media = 'https://i.imgur.com/JJM1l2f.jpg'
 let handler = async (m, { conn, command }) => {
 let str = `
-┌「☄️𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓🤖」
-├❏ ๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ 💖✨ HOLA TE ENVIAMOS UNIRTE AL LOS💖 GRUPOS OFICIALES DEL BOT DE👩‍🏫✨𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓 SOMOS UNA FAMILIA DE BOTS 
+┌「NISHIMIYA-BOT」
+├❏ Te invitamos a unirte a los grupos oficiales de NishimiyaBOT
 └────ׂ─ׂ─ׂ─ׂ───
-┌─「𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓:1」─
-├❏https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0
+┌─「Grupo Ofc」─
+├❏https://chat.whatsapp.com/J5O2VCn3X6WIeLVNrqDgPU
 └────ׂ─ׂ─ׂ─ׂ───
-┌─「𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓:2」─
-├❏https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ
+┌─「Laboratorio」─
+├❏https://chat.whatsapp.com/JMyGhW1QAn7Ae2K3xpTypO
 └────ׂ─ׂ─ׂ─ׂ───
-┌─「𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓:3」─
-├❏https://chat.whatsapp.com/KnpPbr8BN4VDLtwJFMNTtw
+┌─「NEXUS legion」─
+├❏https://chat.whatsapp.com/DcpZegJrEkWBTJSaTWLtmv
 └────ׂ─ׂ─ׂ─ׂ───
-┌─「𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓:4 」─
-├❏https://chat.whatsapp.com/BtzGZregRxzFswm0FgunHL
-└────ׂ─ׂ─ׂ─ׂ───`.trim()
+┌`.trim()
   
-conn.sendHydrated(m.chat, str, wm, media, 'https://wa.me/5212411347465', '𝙲𝚁𝙴𝙰𝙳𝙾𝚁', null, null, [
+conn.sendHydrated(m.chat, str, wm, media, 'https://wa.me/50576796164', '𝙲𝚁𝙴𝙰𝙳𝙾𝚁', null, null, [
 ['𝐌𝐄𝐍𝐔', '/menu'],
 ['𝐄𝐒𝐓𝐀𝐃𝐎 ','/estado']
 ], m,)}

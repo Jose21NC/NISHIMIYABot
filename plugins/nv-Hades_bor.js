@@ -9,7 +9,7 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /Hades Bot|hades bot/
+handler.customPrefix = /Nishimiya Bot|Nishimiya bot/
 handler.command = new RegExp
 export default handler
 

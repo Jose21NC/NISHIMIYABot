@@ -6,7 +6,7 @@ let teks = text ? text : cc.text
 for (let id of groups) { 
 conn.sendButton(id, `┌「𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 | 𝙉𝙊𝙏𝙄𝘾𝙀」─\n├❏💌${text}\n└────ׂ─ׂ─ׂ─ׂ───`, '✅ *𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇*\n' + wm, fs.readFileSync('./src/avatar_contact.png'), [['𝐄𝐒𝐓𝐀𝐃𝐎', '.estado'],['️𝐌𝐄𝐍𝐔', '.menu']], false, { 
 contextInfo: { externalAdReply: {
-title: '❍͜͡➣𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓❍͜͡➣|YOVANI ',
+title: '❍͜͡➣𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓❍͜͡➣|𝗝𝗼𝘀𝗲𝗭𝘇𝘇  ',
 body: 'Super Bot WhatsApp', 
 sourceUrl: `https://www.instagram`, 
 thumbnail: fs.readFileSync('./src/admins.jpg') }}})}

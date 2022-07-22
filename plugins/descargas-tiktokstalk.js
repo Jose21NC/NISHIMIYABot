@@ -8,7 +8,7 @@ let json = await res.json()
 if (res.status !== 200) throw await res.text()
 if (!json.status) throw json
 let thumb = await (await fetch(json.result.user_picture)).buffer()
-let hades = `
+let Nishimiya = `
 ┌「𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽」
 ├❏👤 𝙐𝙎𝙐𝘼𝙍𝙄𝙊(𝘼) | 𝙐𝙎𝙀𝙍
 ├❏🔮${json.result.username}

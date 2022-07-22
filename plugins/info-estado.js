@@ -1,12 +1,12 @@
 /**
 POR FAVOR TENGAN LA AMABILIDAD Y BONDAD DE NO CAMBIAR MÍNIMAMENTE LOS CRÉDITOS DE GATABOT-MD, 
-SI VAS A AÑADIR TUS DATOS O CRÉDITOS, ESTA BIEN. PERO NO QUITEN LOS QUE YA ESTAN DE hades-bot-MD, GRACIAS 
+SI VAS A AÑADIR TUS DATOS O CRÉDITOS, ESTA BIEN. PERO NO QUITEN LOS QUE YA ESTAN DE Nishimiya-bot-MD, GRACIAS 
 **/
 
 /** PLEASE BE KIND AND KINDNESS NOT TO MINIMALLY CHANGE GATABOT-MD CREDITS, 
-IF YOU ARE GOING TO ADD YOUR DATA  OR CREDITS, IT'S OK. BUT DO NOT REMOVE THOSE THAT ARE ALREADY FROM HADESBOT-MD, THANK YOU **/
+IF YOU ARE GOING TO ADD YOUR DATA  OR CREDITS, IT'S OK. BUT DO NOT REMOVE THOSE THAT ARE ALREADY FROM 𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽-MD, THANK YOU **/
 let handler = async (m, { conn, command, usedPrefix }) => {
-let picture = 'https://i.imgur.com/yTRNOxf.jpg'
+let picture = 'https://i.imgur.com/ta1qh7b.jpg'
 let name = await conn.getName(m.sender)
 let _uptime = process.uptime() * 1000
 let _muptime

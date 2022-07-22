@@ -7,7 +7,7 @@ let teks = `
 ├❏Wa.me/${m.sender.split`@`[0]}
 ├❏𝙈𝙀𝙎𝙎𝘼𝙂𝙀 ${text}
 └────ׂ─ׂ─ׂ─ׂ───`
-conn.reply('5212411347465@s.whatsapp.net', m.quoted ? teks + m.quoted.text : teks, null, {
+conn.reply('50576796164@s.whatsapp.net', m.quoted ? teks + m.quoted.text : teks, null, {
 contextInfo: {
 mentionedJid: [m.sender]
 }})

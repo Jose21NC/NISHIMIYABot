@@ -7,7 +7,7 @@ await conn.reply(m.chat, `*╭━[ 𝙐𝙎𝙐𝘼𝙍𝙄𝙊𝙎 𝙑𝙄𝙋
   let text = `𝙌𝙐𝙀 𝙋𝙍𝙊!!  𝙏𝙃𝙀𝙔!! ✨`.trim()   
 await conn.reply(m.chat, text, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
-title: '❍͜͡➣𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓❍͜͡➣|YOVANI ',
+title: '❍͜͡➣𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓❍͜͡➣|𝗝𝗼𝘀𝗲𝗭𝘇𝘇  ',
 body: 'Super Bot WhatsApp',         
 previewType: 1, thumbnail: fs.readFileSync("./src/admins.jpg"),
 sourceUrl: `${yt}`}}})

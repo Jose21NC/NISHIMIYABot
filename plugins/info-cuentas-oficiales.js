@@ -1,4 +1,4 @@
-let media = 'https://i.imgur.com/NRv6b71.jpeg'
+let media = 'https://i.imgur.com/Fh6fcl1.png'
 let handler = async (m, { conn, command }) => {
 let str = `
 ┌──「𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽」─

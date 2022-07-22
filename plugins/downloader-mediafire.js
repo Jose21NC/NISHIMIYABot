@@ -16,7 +16,7 @@ let caption = `
 ▰▰▰▱▱▱▱▱▱⏳`.trim()
 conn.reply(m.chat, caption, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
-title: '❍͜͡➣𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓_𝐌𝐃❍͜͡➣|YOVANI ',
+title: '𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽  | 𝗝𝗼𝘀𝗲𝗭𝘇𝘇 NI ',
 body: 'Super Bot WhatsApp',         
 previewType: 0, thumbnail: fs.readFileSync("./src/Menu2.jpg"),
 sourceUrl: `https://github.com/Jose21NC/NISHIYIMABot.git`}}})

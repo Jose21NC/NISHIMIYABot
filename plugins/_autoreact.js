@@ -7,7 +7,7 @@ key: m.key
     	}
     })	
 }
-handler.customPrefix = /(hadesmd)/i
+handler.customPrefix = /(Nishimiyamd)/i
 handler.command = new RegExp
 
 export default handler
