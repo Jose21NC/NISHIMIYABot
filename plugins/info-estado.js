@@ -19,7 +19,7 @@ let estado =`
 ├❏🌠 ʜᴏʟᴀ ${name}💖✨ 
 ├❏${gt}
 ├❏💎VERSIÓN:${vs}🥀
-├❏🔋𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾:${uptime}
+├❏🔋ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:${uptime}
 ├❏✔️BOT ATIVO🏧
 └────ׂ─ׂ─ׂ─ׂ───`.trim()
 

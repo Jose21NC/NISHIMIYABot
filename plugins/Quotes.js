@@ -62,9 +62,9 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
 let str = `
 ┌──「𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽」─
 ├❏ 🌠 ʜᴏʟᴀ ${name}💖✨ 
-├❏ 📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}
-├❏ 🔋𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}
-├❏ 📊 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂: ${rtotalreg}
+├❏ 📅 ꜰᴇᴄʜᴀ: ${week}, ${date}
+├❏ 🔋ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ: ${uptime}
+├❏ 📊 ᴜꜱᴜᴀʀɪᴏꜱ ${rtotalreg}
 └────ׂ─ׂ─ׂ─ׂ───
 ┌──「📑𝐐𝐔𝐎𝐓𝐄𝐒」─
 ├❏📌${usedPrefix}logos <efecto <texto

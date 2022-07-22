@@ -8,7 +8,7 @@ conn.sendButton(id, `┌「𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 | 𝙉𝙊�
 contextInfo: { externalAdReply: {
 title: '❍͜͡➣ɴɪꜱʜɪᴍɪʏᴀ_𝐁𝐎𝐓❍͜͡➣|𝗝𝗼𝘀𝗲𝗭𝘇𝘇  ',
 body: 'Super Bot WhatsApp', 
-sourceUrl: `https://www.instagram`, 
+sourceUrl: `https://www.instagram/josedev2nc`, 
 thumbnail: fs.readFileSync('./src/admins.jpg') }}})}
 m.reply(`${iig} ✅ *El mensaje fue enviado a ${groups.length} Grupo(s)*\n*Es posible que no se haya enviado a todos los Grupos. Disculpe.*\n\n✅ *The message was sent to ${groups.length} Group's*\n*May not have been sent to all Groups. Excuse me.*`)
 }
