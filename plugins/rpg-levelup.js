@@ -9,7 +9,7 @@ let user = global.db.data.users[m.sender]
         let { min, xp, max } = xpRange(user.level, global.multiplier)
         throw `
 ┌──「𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽」─
-├❏๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ 💖✨
+├❏🌠 ʜᴏʟᴀ 💖✨
 ├❏NIVEL
 ├❏▢ Nombre : *${name}*
 ├❏▢ Nivel : *${user.level}*
@@ -23,7 +23,7 @@ let user = global.db.data.users[m.sender]
         let teks = `Bien hecho! ${conn.getName(m.sender)} Nivel: ${user.level}`
         let str = `
 ┌──「𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽」─
-├❏๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ 💖✨
+├❏🌠 ʜᴏʟᴀ 💖✨
 ├❏๖LEVEL UP*
 ├❏๖Nivel anterior : *${before}*
 ├❏๖Nivel actual : *${user.level}*

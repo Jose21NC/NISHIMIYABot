@@ -4,9 +4,9 @@ let chatsall = Object.entries(conn.chats).filter(([_, chat]) => chat.isChats).ma
 for (let id of chatsall) { 
 conn.sendButton(id, `┌──「𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 | 𝙉𝙊𝙏𝙄𝘾𝙀」─\n├❏💌* ${text}\n*\n└────ׂ─ׂ─ׂ─ׂ───`, '✅ *𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇*\n' + wm, fs.readFileSync('./src/avatar_contact.png'), [['🎁 𝙄𝙣𝙛𝙤 𝙊𝙛𝙞𝙘𝙞𝙖𝙡', '.cuentasgb'],['𝐌𝐄𝐍𝐔', '.menu']], false, {
 contextInfo: { externalAdReply: {
-title: '❍͜͡➣𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓❍͜͡➣|𝗝𝗼𝘀𝗲𝗭𝘇𝘇  ',
+title: '❍͜͡➣ɴɪꜱʜɪᴍɪʏᴀ_𝐁𝐎𝐓❍͜͡➣|𝗝𝗼𝘀𝗲𝗭𝘇𝘇  ',
 body: 'Super Bot WhatsApp', 
-sourceUrl: `https://www.instagram`, 
+sourceUrl: `https://www.instagram/josedev2nc`, 
 thumbnail: fs.readFileSync('./src/admins.jpg') }}})}
 m.reply(`${iig} ✅ *El mensaje fue enviado a ${chatsall.length} Chats Totales*\n*Es posible que no se haya enviado a todos los Chats Totales. Disculpe.*\n\n✅ *The message was sent to ${chatsall.length} Totals Chats*\n*May not have been sent to all Totals Chats. Excuse me.*`)
 }

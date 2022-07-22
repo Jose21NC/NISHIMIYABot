@@ -1,6 +1,6 @@
 console.log('Iniciando | Starting 🚀🚀🚀')
 
-//TEN CUIDADO AL EDITAR ESTE ARCHIVO, CONTIENE FUNCIONES QUE SON NECESARIAS PARA QUE EL BOT FUNCIONE
+//NO EDITES ESTE ARCHIVO, SE ENCARGA DE INICIAR LA CONEXION CON BAILEYS
 
 import { join, dirname } from 'path'
 import { createRequire } from "module";
@@ -26,7 +26,7 @@ say('NISHIMIYA_BOT\nJoseZzz\nNISHIMIYA_BOT_MD', {
 say(`El mejor BOT de WathsApp con tematica anime :>
 |< ================================================== >|
 [•]-SERVIDOR : PRIVADO
-[•]-BOT VERSION : 10.8.9
+[•]-BOT VERSION : 1.0
 [•]-ESTADO : ACTIVO
 [•]-Owner : JoseZzz
 [•]-Gracias por usar el bot 

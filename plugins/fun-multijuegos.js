@@ -72,8 +72,8 @@ if (command == 'multijuegos') {
               
 
  const templateButtonsReplyMessage = [
-{index: 1, urlButton: {displayText: '𝙲𝙰𝙽𝙰𝙻 𝙳𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴', url: 'https://youtu.be/aPu9wQi-z8U'}},
-{index: 2, urlButton: {displayText: '𝐆𝐫𝐮𝐩𝐨 𝐝𝐞 𝐟𝐚𝐜𝐞𝐛𝐨𝐨𝐤:', url: 'https://www.facebook.com/groups/987464505464904/'}},
+{index: 1, urlButton: {displayText: '𝙲𝙰𝙽𝙰𝙻 𝙳𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴', url: 'https://www.youtube.com/channel/UCO3zMzHQ3n2C0ypN2Y5aeeg'}},
+{index: 2, urlButton: {displayText: 'ɢʀᴜᴘᴏ ᴅᴇ ᴡʜᴀᴛꜱᴀᴘᴘ:', url: 'https://chat.whatsapp.com/J5O2VCn3X6WIeLVNrqDgPU'}},
 {index: 3, quickReplyButton: {displayText: '𝐌𝐄𝐍𝐔', id: '.menu'}},
 {index: 4, quickReplyButton: {displayText: '𝐄𝐒𝐓𝐀𝐃𝐎', id: '/estado'}},
 {index: 5, quickReplyButton: {displayText: '𝐆𝐑𝐔𝐏𝐎𝐒 ️', id: '#grupos'}},
@@ -103,8 +103,8 @@ conn.sendMessage(m.chat, t, m)
               let ss = await `𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽  | 𝗝𝗼𝘀𝗲𝗭𝘇𝘇 NI `
 
  const templateButtonsReplyMessage = [
-{index: 1, urlButton: {displayText: '𝙲𝙰𝙽𝙰𝙻 𝙳𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴', url: 'https://youtu.be/aPu9wQi-z8U'}},
-{index: 2, urlButton: {displayText: '𝐆𝐫𝐮𝐩𝐨 𝐝𝐞 𝐟𝐚𝐜𝐞𝐛𝐨𝐨𝐤:', url: 'https://www.facebook.com/groups/987464505464904/'}},
+{index: 1, urlButton: {displayText: '𝙲𝙰𝙽𝙰𝙻 𝙳𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴', url: 'https://www.youtube.com/channel/UCO3zMzHQ3n2C0ypN2Y5aeeg'}},
+{index: 2, urlButton: {displayText: 'ɢʀᴜᴘᴏ ᴅᴇ ᴡʜᴀᴛꜱᴀᴘᴘ:', url: 'https://chat.whatsapp.com/J5O2VCn3X6WIeLVNrqDgPU'}},
 {index: 3, quickReplyButton: {displayText: '𝐌𝐄𝐍𝐔', id: '.menu'}},
 {index: 4, quickReplyButton: {displayText: '𝐄𝐒𝐓𝐀𝐃𝐎', id: '/estado'}},
 {index: 5, quickReplyButton: {displayText: '𝐆𝐑𝐔𝐏𝐎𝐒 ️', id: '#grupos'}},
@@ -133,8 +133,8 @@ conn.sendMessage(m.chat, tt, m)
            let sss = await `𝗡𝗶𝘀𝗵𝗶𝗺𝗶𝘆𝗮𝜷𝛔𝞽  | 𝗝𝗼𝘀𝗲𝗭𝘇𝘇 NI `
 
  const templateButtonsReplyMessage = [
-{index: 1, urlButton: {displayText: '𝙲𝙰𝙽𝙰𝙻 𝙳𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴', url: 'https://youtu.be/aPu9wQi-z8U'}},
-{index: 2, urlButton: {displayText: '𝐆𝐫𝐮𝐩𝐨 𝐝𝐞 𝐟𝐚𝐜𝐞𝐛𝐨𝐨𝐤:', url: 'https://www.facebook.com/groups/987464505464904/'}},
+{index: 1, urlButton: {displayText: '𝙲𝙰𝙽𝙰𝙻 𝙳𝙴 𝚈𝙾𝚄𝚃𝚄𝙱𝙴', url: 'https://www.youtube.com/channel/UCO3zMzHQ3n2C0ypN2Y5aeeg'}},
+{index: 2, urlButton: {displayText: 'ɢʀᴜᴘᴏ ᴅᴇ ᴡʜᴀᴛꜱᴀᴘᴘ:', url: 'https://chat.whatsapp.com/J5O2VCn3X6WIeLVNrqDgPU'}},
 {index: 3, quickReplyButton: {displayText: '𝐌𝐄𝐍𝐔', id: '.menu'}},
 {index: 4, quickReplyButton: {displayText: '𝐄𝐒𝐓𝐀𝐃𝐎', id: '/estado'}},
 {index: 5, quickReplyButton: {displayText: '𝐆𝐑𝐔𝐏𝐎𝐒 ️', id: '#grupos'}},

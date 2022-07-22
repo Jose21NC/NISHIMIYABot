@@ -4,7 +4,7 @@ for (let [jid, chat] of Object.entries(conn.chats).filter(([jid, chat]) => jid.e
 m.reply(`*${gt} ESTÁ EN ESTOS GRUPOS*
 *IS IN THESE GROUPS:*`.trim())
 
-conn.sendHydrated(m.chat, txt, wm, null, 'https://www.facebook.com/groups/987464505464904/', '𝐆𝐫𝐮𝐩𝐨 𝐝𝐞 𝐟𝐚𝐜𝐞𝐛𝐨𝐨𝐤:', null, null, [
+conn.sendHydrated(m.chat, txt, wm, null, 'https://chat.whatsapp.com/J5O2VCn3X6WIeLVNrqDgPU', 'ɢʀᴜᴘᴏ ᴅᴇ ᴡʜᴀᴛꜱᴀᴘᴘ:', null, null, [
 ['️𝐌𝐄𝐍𝐔', '.menu'],
 ['𝐄𝐒𝐓𝐀𝐃𝐎 ', '/estado']
 ], m,)

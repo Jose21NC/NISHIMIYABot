@@ -59,7 +59,7 @@ sourceUrl: `https://wa.me/50576796164`}}})
 let pp = 'https://i.imgur.com/JJM1l2f.jpg'
 let str = `🧡 *Eso son los contactos para ti.*\n💜 *That's the contacts for you.*`
 
-conn.sendHydrated(m.chat, str, wm, pp, 'https://www.facebook.com/groups/987464505464904/', '𝐆𝐫𝐮𝐩𝐨 𝐝𝐞 𝐟𝐚𝐜𝐞𝐛𝐨𝐨𝐤:', null, null, [
+conn.sendHydrated(m.chat, str, wm, pp, 'https://chat.whatsapp.com/J5O2VCn3X6WIeLVNrqDgPU', 'ɢʀᴜᴘᴏ ᴅᴇ ᴡʜᴀᴛꜱᴀᴘᴘ:', null, null, [
 ], m,)
 }
 handler.help = ['owner', 'creator']

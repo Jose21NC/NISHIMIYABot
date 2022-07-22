@@ -7,7 +7,7 @@ await conn.sendFile(m.chat, res, 'error.jpg', `✅ 𝙁𝙊𝙏𝙊 𝘿𝙀 �
   let info = `💖 *Infórmate sobre las Novedades y recuerda tener la última versión.*\n\n💝 *Find out about what's new and remember to have the latest version.*
   `.trim()
   
-conn.sendHydrated(m.chat, info, wm, null, md, '❍͜͡➣𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓_𝐌𝐃❍͜͡➣', null, null, [
+conn.sendHydrated(m.chat, info, wm, null, md, '❍͜͡➣ɴɪꜱʜɪᴍɪʏᴀ_ʙᴏᴛ❍͜͡➣', null, null, [
 ['𝐄𝐒𝐓𝐀𝐃𝐎', '/estado'],
 ['𝑴𝑬𝑵𝑼', '/menu'],
 ['𝐆𝐑𝐔𝐏𝐎𝐒️', '/grupos']

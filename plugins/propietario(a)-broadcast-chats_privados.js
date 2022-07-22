@@ -4,7 +4,7 @@ let chats = Object.entries(conn.chats).filter(([jid, chat]) => !jid.endsWith('@g
 for (let id of chats) { 
 conn.sendButton(id, `┌──「𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 | 𝙉𝙊𝙏𝙄𝘾𝙀 」─\n├❏💌* ${text}\n└────ׂ─ׂ─ׂ─ׂ───`, '✅ *𝘾𝙊𝙈𝙐𝙉𝙄𝘾𝘼𝘿𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇*\n' + wm, fs.readFileSync('./src/avatar_contact.png'), [['🎁 𝙄𝙣𝙛𝙤 𝙊𝙛𝙞𝙘𝙞𝙖𝙡', '.cuentasgb'],['𝐌𝐄𝐍𝐔', '.menu']], false, {
 contextInfo: { externalAdReply: {
-title: '❍͜͡➣𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓❍͜͡➣|𝗝𝗼𝘀𝗲𝗭𝘇𝘇  ',
+title: '❍͜͡➣ɴɪꜱʜɪᴍɪʏᴀ_𝐁𝐎𝐓❍͜͡➣|𝗝𝗼𝘀𝗲𝗭𝘇𝘇  ',
 body: 'Super Bot WhatsApp', 
 sourceUrl: ``, 
 thumbnail: fs.readFileSync('./media/src/admins.jpg') }}})}
