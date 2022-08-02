@@ -18,6 +18,7 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
+//console.output
 say('NISHIMIYA_BOT\nJoseZzz\nNISHIMIYA_BOT_MD', {
   font: 'chrome',
   align: 'center',
